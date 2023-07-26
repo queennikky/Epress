@@ -1,0 +1,29 @@
+// GET, POST, PATCH, PUT, DELETE - request method
+
+//CRUD - CREATE READ UPDATE DELETE
+CREATE - request body - POST
+username, email, password,
+
+READ - GET
+
+all meals
+
+
+get single meal /meal/:id
+route param- useParams
+req.useParams
+
+UPDATE - PATCH, PUT (overwrite)
+req.body
+
+
+delete -
+database intergration
+
+//middlewares functions thatrun on the server between requestand response
+app.use
+
+request----> middle <----response
+//passrequest json database,
+error handling, get req.body from frontend,
+custom middleware - authentication
