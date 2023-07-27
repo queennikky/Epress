@@ -27,3 +27,5 @@ request----> middle <----response
 //passrequest json database,
 error handling, get req.body from frontend,
 custom middleware - authentication
+
+//Architecture - MVC
